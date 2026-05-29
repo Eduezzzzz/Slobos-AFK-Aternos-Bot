@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "byeduz247BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "onlidevic57.aternos.me",
+    "port": 45610,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "esta madre se supone q no se apaga",
+        "alv we",
+        "ta perro"
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1510064756906655866/dBNBZM0JkLsSlMIAnnXANIPdS2RnUaavlFZrtGwqp1DTbAyowujThcQss3DHOR6-MMnR",
     "events": {
       "connect": true,
       "disconnect": true,
