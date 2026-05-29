@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "onlidevic57.aternos.me:45610",
+    "ip": "onlidevic57.aternos.me",
     "port": 45610,
     "version": "",
     "try-creative": false
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "esta madre se supone q no se apaga",
