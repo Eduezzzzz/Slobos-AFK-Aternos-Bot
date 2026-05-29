@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "onlidevic57.aternos.me",
+    "ip": "onlidevic57.aternos.me:45610",
     "port": 45610,
     "version": "",
     "try-creative": false
